@@ -1,4 +1,4 @@
-"use strict"; // treat all JS cide as newer version
+"use strict"; // treat all JS code as newer version
 
 // alert("Hello") // we are using nodejs, not browser.
 
