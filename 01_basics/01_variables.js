@@ -4,7 +4,7 @@ var accountPassword = "reactdeveloper"
 accountcity = "Torronto"
 let accountState;
 
-// accountId = 2 // Single line Comment
+// accountId = 2 // Single line Comment.
 
 /*
     this is a Multi line Comment. Prefer not to use var bacause of issue in block scope and functional scope.
