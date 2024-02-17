@@ -1,9 +1,9 @@
 const name = "Saroj"
 const repoCount = 4
 
-console.log(name + repoCount);
+// console.log(name + repoCount);
 
-console.log(`Hello  ${name}! You have ${repoCount} repository.`);
+// console.log(`Hello  ${name}! You have ${repoCount} repository.`);
 
 const gameName = new String("DEVELOPER") // declaring strings using object
 console.log(gameName);
@@ -43,4 +43,5 @@ console.log(url.replace('%4', '_'));
 console.log(url.includes('developer'));
 
 // split method
-console.llog(gameName.split('')) // split(seperator, limit)
+const playName = new String("React-DEVELOPER-com") 
+console.log(playName.split('-'))    // split(seperator, limit)
