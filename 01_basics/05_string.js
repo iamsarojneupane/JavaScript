@@ -1,11 +1,11 @@
 const name = "Saroj"
-const repoCount = 2
+const repoCount = 4
 
 console.log(name + repoCount);
 
 console.log(`Hello  ${name}! You have ${repoCount} repository.`);
 
-const gameName = new String("DEVELOPER")
+const gameName = new String("DEVELOPER") // declaring strings using object
 console.log(gameName);
 
 // console.log(gameName[1]);
