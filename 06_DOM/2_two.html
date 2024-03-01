@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <title>DOM</title>
+</head>
+<body style="background-color: #212121; color: #fff;">
+
+   <div class="parent">
+      <div class="programming">Javascript</div>
+      <div class="programming">ReactJS</div>
+      <div class="programming">Typescript</div>
+      <div class="programming">NextJS</div>
+   </div>
+
+</body>
+<script>
+
+   const parent = document.querySelector('.parent')
+   // console.log(parent);
+   // console.log(parent.children);
+   // console.log(parent.children[1]);
+   // console.log(parent.children[1].innerHTML);
+
+   for (let i = 0; i < parent.children.length; i++) {
+      // console.log(parent.children[i].innerHTML); 
+   }
+
+// parent to child
+      parent.children[1].style.Color = "red"
+      // console.log(parent.firstElementChild);
+      // console.log(parent.lastElementChild);
+
+// child to parent
+      const programmingDayOne =  document.querySelector('.programming')
+      // console.log(programmingDayOne);
+      // console.log(programmingDayOne.parentElement);
+      // console.log(programmingDayOne.nextElementSibling);
+
+      // Nodelist - childNodes
+      console.log("Nodes: ",parent.childNodes);
+
+      
+
+
+   </script> 
+
+</html>
