@@ -13,10 +13,10 @@ Microsoft's browser became dominant, bundled with Windows operating systems.
 
 ### 4. Opera (1996) || Opera Software
 
-### 4. Mozilla (1998) 
+### 5. Mozilla (1998) 
 An open-source alternative to Internet Explorer, evolved into the Mozilla Firefox web browser in 2002 and gaining popularity for its speed and security.
 
-### 5. Google Chrome (2008):
+### 6. Google Chrome (2008):
 Google's browser quickly dominated the market with its speed and minimalist design.
 
 Also, several other browsers like Brave and Vivaldi came into the game and are used by some users for their unique features.
