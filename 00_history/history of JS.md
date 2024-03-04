@@ -42,7 +42,6 @@ Nowadays, there are several implementations. The most popular ones are:
 - **ActionScript** - Used in Adobe Flash Player
 - **JScript .NET** - Used in Microsoft products like Visual Studio
 - **JavaScrpt/ECMAScript** - An open standard implemented by many engines including Firefox, Safari, and Google Chrome.
-- **JavaScrpt/ECMAScript** - An open standard implemented by many engines including Firefox, Safari, and IE. 
 
 ### Jeff Atwood || Founder of Stackoverflow 
 - **Atwood's Law**: Any application that can be written in JavaScript, will eventually be written in JavaScript.
